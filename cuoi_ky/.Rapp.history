@@ -1,0 +1,3 @@
+load("/System/Volumes/Data/hungvm/MoD/thong_ke_trong_xh/cuoi_ky/Hưng Vũ Minh - gss16.rda")
+load("/Users/awlvn/hungvm/MoD/thong_ke_trong_xh/cuoi_ky/Hưng Vũ Minh - gss16.rda")
+a -> load("/Users/awlvn/hungvm/MoD/thong_ke_trong_xh/cuoi_ky/Hưng Vũ Minh - gss16.rda")
